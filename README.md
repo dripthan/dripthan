@@ -2,6 +2,7 @@ depressed student 😭
 
 gisc's (ghetto instruction set computers) 🖥️
 
+- [pristine](https://github.com/dripthan/gisc-pristine)
 - [luna](https://github.com/dripthan/gisc-luna)
 - [amira](https://github.com/dripthan/gisc-amira)
 
